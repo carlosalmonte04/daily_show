@@ -1,0 +1,1 @@
+INSERT INTO guests (name, occupation) VALUES ('will smith', 'actor');
